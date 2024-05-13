@@ -1,4 +1,4 @@
-﻿using Guna.UI2.WinForms;
+using Guna.UI2.WinForms;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,9 +11,9 @@ using System.Windows.Forms;
 using Guna.UI2.WinForms;
 namespace القرأن_الكريم
 {
-    public partial class SIgninandupform : Form
+    public partial class Signinandupform : Form
     {
-        public SIgninandupform()
+        public Signinandupform()
         {
             InitializeComponent();
         }
@@ -22,11 +22,11 @@ namespace القرأن_الكريم
         {
 
         }
-        private void ShowPass(Guna2TextBox txtxpassword)
+        private void ShowPass(Guna2TextBox txtpassword)
         {
-            if (txtxpassword is null)
+            if (txtpassword is null)
             {
-                throw new ArgumentNullException(nameof(txtxpassword));
+                throw new ArgumentNullException(nameof(txtpassword));
             }
 
             if (txtpassword.UseSystemPasswordChar == true)
@@ -38,6 +38,10 @@ namespace القرأن_الكريم
                 txtpassword.UseSystemPasswordChar = true;
             }
         }
+// audio form 
+// play sound finction for any quran audio in user pc 
+// reading form 
+// categories the mushaf to 30 part and n quartares and  
 
         private void guna2TextBox1_TextChanged(object sender, EventArgs e)
         {
@@ -63,6 +67,30 @@ namespace القرأن_الكريم
         {
             ShowPass(passwordtextboxsignup);
         }
-     
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void signupbutton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void signupbtn_Click(object sender, EventArgs e)
+        {
+            if(panel.Dock== DockStyle.Right)
+            {
+                panel.Dock = DockStyle.Left;
+                slidebtn.Text = " SIGN IN";
+
+            }
+            else
+            {
+                panel.Dock = DockStyle.Right;
+                slidebtn.Text = " SIGN UP";
+            }
+        }
     }
 }
