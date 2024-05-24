@@ -16,7 +16,8 @@ namespace القرأن_الكريم
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SIgninandupform());
+            Application.Run(new Signinandupform());
+            
         }
     }
 }
