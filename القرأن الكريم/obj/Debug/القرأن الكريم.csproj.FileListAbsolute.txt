@@ -1,0 +1,16 @@
+D:\Quran App\القرأن الكريم\bin\Debug\القرأن الكريم.exe.config
+D:\Quran App\القرأن الكريم\bin\Debug\القرأن الكريم.exe
+D:\Quran App\القرأن الكريم\bin\Debug\القرأن الكريم.pdb
+D:\Quran App\القرأن الكريم\bin\Debug\Guna.UI2.dll
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.csproj.AssemblyReference.cache
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن_الكريم.Properties.Resources.resources
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.csproj.GenerateResource.cache
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.csproj.CoreCompileInputs.cache
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن ا.84C40DCC.Up2Date
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.exe
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن الكريم.pdb
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن_الكريم.SIgninandupform.resources
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن_الكريم.ListeningForm.resources
+D:\Quran App\القرأن الكريم\bin\Debug\ar-EG\القرأن الكريم.resources.dll
+D:\Quran App\القرأن الكريم\obj\Debug\القرأن_الكريم.ListeningForm.ar-EG.resources
+D:\Quran App\القرأن الكريم\obj\Debug\ar-EG\القرأن الكريم.resources.dll
